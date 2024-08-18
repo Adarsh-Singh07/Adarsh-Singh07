@@ -1,3 +1,4 @@
+![logo](https://github.com/Adarsh-Singh07/Adarsh-Singh07/blob/main/1722281878210.jpeg)
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">Software Engineer with a passion for creativity in playing with data to make something interesting out of it.</h3>
 <img align="center" alt="coding" width="500" src="https://t3.ftcdn.net/jpg/05/58/76/06/240_F_558760670_tpmGEITXBI7x4bK47iMoM9tUQnSVt7Uk.jpg">
