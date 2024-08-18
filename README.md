@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">Software Engineer with a passion for creativity in playing with data to make something interesting out of it..</h3>
-<img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/05/58/76/06/240_F_558760670_tpmGEITXBI7x4bK47iMoM9tUQnSVt7Uk.jpg">
+<img align="centre" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/05/58/76/06/240_F_558760670_tpmGEITXBI7x4bK47iMoM9tUQnSVt7Uk.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-singh07&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-singh07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-singh07" alt="adarsh-singh07" /></a> </p>
@@ -19,7 +19,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adarshsingh45/](https://www.linkedin.com/in/adarshsingh45/)
 
-- ⚡ Fun fact **Did you know that the average person spends about 5 years of their life dreaming? and I am in those persons who are above that average data.🤯💤**
+- ⚡ Fun fact **Did you know that the average person spends 1/3 of their life sleeping?  (Maybe that's why I'm so fascinated by data analysis - it helps us understand even the most mysterious aspects of human behavior! )
+.🤯💤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
