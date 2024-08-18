@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">Software Engineer with a passion for creativity in playing with data to make something interesting out of it..</h3>
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/07/24/61/01/240_F_724610196_XCjPD0TPTZ0b7Fg5BQ1SqDUalDkXKZyz.jpg">
+<img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/05/58/76/06/240_F_558760670_tpmGEITXBI7x4bK47iMoM9tUQnSVt7Uk.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-singh07&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-singh07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-singh07" alt="adarsh-singh07" /></a> </p>
