@@ -104,7 +104,7 @@
 
 ### 🚀 Highlighted GitHub Projects
 
-* **[InterviewOS](https://github.com/Adarsh-Singh07/InterviewOS)** (TypeScript / React)
+* **[InterviewOS](https://github.com/Adarsh-Singh07/InterviewOS)** (Python /Fast API/ TypeScript / React)
   * *An interview preparation platform designed to help users practice, organize, and track their interview skills through structured resources and interactive tools.*
 * **[Indian Sign Language ML Translation](https://github.com/Adarsh-Singh07/Indian-Sign-Language-Real-Time-ML-Translation-System)** (Python / TensorFlow / OpenCV)
   * *A real-time ML inference pipeline translating Indian Sign Language gestures into text and speech, optimizing low-latency execution on edge devices.*
