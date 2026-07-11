@@ -1,6 +1,6 @@
 <!-- Dynamic Header & Title -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Adarsh%20Singh&fontSize=65&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,0D6EFD,30,0077B5,80,4285F4&height=260&section=header&text=Adarsh%20Singh&fontSize=75&animation=fadeIn&fontAlignY=38&fontName=Righteous" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -86,18 +86,21 @@
 ---
 
 ### 🛡️ Certifications Prestige Wall
-* 💻 **Microsoft Certified:** Azure AI Engineer Associate (AI-102) — *Mar 2026* [[Verify](https://learn.microsoft.com/api/credentials/share/en-us/AdarshSingh2049/79DE2DEF41234156?sharingId=8D4E75A61B7B7717)]
-* ☁️ **AWS Certified:** AI Practitioner — *Mar 2026* [[Verify](https://www.credly.com/badges/c178772b-f8b4-4744-9f36-29e86e6fee3b)]
-* 📊 **Google Cloud Certified:** Associate Data Practitioner — *Mar 2026* [[Verify](https://www.credly.com/badges/3dfaa7cd-d9f7-492f-adfe-91907b346c8c)]
-* 🛠️ **Google Cloud Certified:** Professional Cloud Developer — *Jan 2026* [[Verify](https://www.credly.com/badges/552f04a0-a307-4dfb-ac23-af9301b280e4)]
-* 🤖 **Google Cloud Certified:** Generative AI Leader — *Dec 2025* [[Verify](https://www.credly.com/badges/e2556efe-eb9c-492e-945c-393fefacae26)]
-* 📈 **Google Certified:** Data Analytics Professional — *Dec 2024* [[Verify](https://www.credly.com/badges/625312be-058a-4739-9c41-6db9551a1e63)]
-* 🔒 **Microsoft Certified:** Azure AI Fundamentals (AI-900) & Azure Fundamentals (AZ-900)
+
+* <img src="https://img.shields.io/badge/Microsoft-AI--102-0089D6?style=flat-square&logo=microsoft&logoColor=white" alt="Azure AI Engineer" /> **Azure AI Engineer Associate (AI-102)** — *Microsoft (Mar 2026)* [[Verify](https://learn.microsoft.com/api/credentials/share/en-us/AdarshSingh2049/79DE2DEF41234156?sharingId=8D4E75A61B7B7717)]
+* <img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner" /> **AWS Certified AI Practitioner** — *Amazon Web Services (Mar 2026)* [[Verify](https://www.credly.com/badges/c178772b-f8b4-4744-9f36-29e86e6fee3b)]
+* <img src="https://img.shields.io/badge/Google-Associate_Data-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Data Practitioner" /> **Associate Data Practitioner Certification** — *Google Cloud (Mar 2026)* [[Verify](https://www.credly.com/badges/3dfaa7cd-d9f7-492f-adfe-91907b346c8c)]
+* <img src="https://img.shields.io/badge/Google-Professional_Dev-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Developer" /> **Professional Cloud Developer Certification** — *Google Cloud (Jan 2026)* [[Verify](https://www.credly.com/badges/552f04a0-a307-4dfb-ac23-af9301b280e4)]
+* <img src="https://img.shields.io/badge/Google-Generative_AI_Leader-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google GenAI Leader" /> **Generative AI Leader Certification** — *Google Cloud (Dec 2025)* [[Verify](https://www.credly.com/badges/e2556efe-eb9c-492e-945c-393fefacae26)]
+* <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Data Analytics" /> **Google Data Analytics Professional Certificate** — *Coursera (Dec 2024)* [[Verify](https://www.credly.com/badges/625312be-058a-4739-9c41-6db9551a1e63)]
+* <img src="https://img.shields.io/badge/Microsoft-AI--900-0089D6?style=flat-square&logo=microsoft&logoColor=white" alt="Azure AI Fundamentals" /> **Azure AI Fundamentals (AI-900) & Azure Fundamentals (AZ-900)** — *Microsoft*
 
 ---
 
 ### 🚀 Highlighted GitHub Projects
 
+* **[Interactive 3D Portfolio & AI Chatbot](https://github.com/Adarsh-Singh07/Adarsh-Singh-Portfolio)** (TypeScript / React / TailwindCSS / Node.js)
+  * *A premium interactive 3D developer portfolio showcasing technical experience, certifications, and project metrics. Integrated with a conversational AI assistant (trained on profile context) using custom vector embeddings and cosine similarity.*
 * **[InterviewOS](https://github.com/Adarsh-Singh07/InterviewOS)** (Python / FastAPI / TypeScript / React)
   * *An interview preparation platform designed to help users practice, organize, and track their interview skills through structured resources and interactive tools.*
 * **[Indian Sign Language ML Translation](https://github.com/Adarsh-Singh07/Indian-Sign-Language-Real-Time-ML-Translation-System)** (Python / TensorFlow / OpenCV)
@@ -114,9 +117,9 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Singh07&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adarsh-Singh07&show_icons=true&theme=tokyonight" alt="Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Singh07&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Adarsh-Singh07&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 <p align="center">
@@ -129,5 +132,5 @@
 * 📧 **Email:** adarsh2001gop@gmail.com
 * 💼 **LinkedIn:** [/in/adarshsingh45](https://linkedin.com/in/adarshsingh45)
 * 📊 **Kaggle:** [/adarshsingh45](https://kaggle.com/adarshsingh45)
-* 🏅 **HackerRank:** [/adarsh2001gop](https://www.hackerrank.com/adarsh2001gop)
+* 💻 **LeetCode:** [/u/Adarsh2049](https://leetcode.com/u/Adarsh2049/)
 * 🌐 **Interactive Portfolio:** [adarshsingh-portfolio.web.app](https://adarshsingh-portfolio.web.app/)
