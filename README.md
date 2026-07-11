@@ -1,24 +1,18 @@
 <!-- Dynamic Header & Title -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Adarsh%20Singh&fontSize=65&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Adarsh%20Singh&fontSize=65&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://adarshsingh-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-Interactive_3D-blue?style=for-the-badge&logo=react&logoColor=61DAFB&color=0D6EFD" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Interactive%203D-blue?style=flat-square&logo=react&logoColor=61DAFB&color=0D6EFD" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/adarshsingh45" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarsh-Singh07&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Singh07&theme=dracula&column=7&margin-w=10" alt="Trophies" />
+  <a href="https://linkedin.com/in/adarshsingh45" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Adarsh-Singh07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <h3 align="center">
@@ -104,7 +98,7 @@
 
 ### 🚀 Highlighted GitHub Projects
 
-* **[InterviewOS](https://github.com/Adarsh-Singh07/InterviewOS)** (Python /Fast API/ TypeScript / React)
+* **[InterviewOS](https://github.com/Adarsh-Singh07/InterviewOS)** (Python / FastAPI / TypeScript / React)
   * *An interview preparation platform designed to help users practice, organize, and track their interview skills through structured resources and interactive tools.*
 * **[Indian Sign Language ML Translation](https://github.com/Adarsh-Singh07/Indian-Sign-Language-Real-Time-ML-Translation-System)** (Python / TensorFlow / OpenCV)
   * *A real-time ML inference pipeline translating Indian Sign Language gestures into text and speech, optimizing low-latency execution on edge devices.*
